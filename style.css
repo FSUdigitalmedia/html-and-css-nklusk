@@ -7,17 +7,18 @@ h1 {
     color:palevioletred;
     text-align: center;
     font-size: 300%;
-    line-height: ;
+    line-height: -200px;
 }
 
 h5 {
     color:darkolivegreen;
-    font-size: 2000%;
+    font-size: 900%;
     text-align: right;
-    padding: -30px;
-    word-spacing: -150px;
+    line-height: -90000px;
+    word-spacing: -70px;
 }
 p {
-    padding: -200px;
+    font-size: 150%;
+    font-family: cursive;
 
 }
